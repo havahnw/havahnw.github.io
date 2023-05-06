@@ -11,13 +11,13 @@ header, footer {
   
   background-color: #ffa500;
   text-align: left;
-  header {
-    font-family: Inconsolata;
-    color: #fff;
-    min-height: 100vh;
-    display: flex;
+  font-family: Work Sans;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
   }
-}
+  
+
 
 main {
   display: grid;
