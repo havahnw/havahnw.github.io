@@ -1,5 +1,9 @@
 header, footer {
+<<<<<<< HEAD
   background-color: #000000;
+=======
+  background-color: #ffa500;
+>>>>>>> parent of f3fb206 (links, fonts, colors)
   text-align: center;
   min-width: 500px;
 }
@@ -18,12 +22,16 @@ main {
 }
 
 h2 {
-  font-family: Karla;
+  font-family: Poppins;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
+<<<<<<< HEAD
   color: #000000;
+=======
+  color: #ffa500;
+>>>>>>> parent of f3fb206 (links, fonts, colors)
   padding: 10px 0px 10px 10px;
 }
 
@@ -54,26 +62,26 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Karla;
+  font-family: Poppins;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #000000;
+  color: #4a4a4a;
   position: relative;
   bottom: 5px;
 }
 
 .description {
-  font-family: Inconsolata;
-  font-size: 16px;
+  font-family: Work Sans;
+  font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #000000;
+  color: #4a4a4a;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #000000;
+  border-top: 1px solid #4a4a4a;
 }
 
 .logo {
