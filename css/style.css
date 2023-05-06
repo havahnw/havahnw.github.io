@@ -1,5 +1,5 @@
 header, footer {
-  background-color: #FFFFFF;
+  background-color: #000000;
   text-align: center;
   min-width: 500px;
 }
@@ -23,7 +23,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffffff;
+  color: #000000;
   padding: 10px 0px 10px 10px;
 }
 
